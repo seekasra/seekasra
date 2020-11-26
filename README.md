@@ -6,4 +6,4 @@
 - 🔭  I’m currently working on network cognitive management.
 - 🎛  I’m currently learning network programablity.
 - 💻  I’m looking to collaborate on opensource projects.
-![alt-text](https://github.com/seekasra/seekasra/blob/main/README.md!)
+[alt-text](https://github.com/seekasra/seekasra/blob/main/README.md!)
