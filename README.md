@@ -1,5 +1,5 @@
 ### Hi 👋 , 
-![gif](https://github.com/seekasra/seekasra/blob/main/custome-greeting.gif)
+![gif](https://github.com/seekasra/seekasra/blob/main/GitHub-Greeting.gif)
 <!--
 **seekasra/seekasra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
