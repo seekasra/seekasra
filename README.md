@@ -8,4 +8,4 @@
 - 🎛 I’m currently learning network programablity.
 - 💻 I’m looking to collaborate on opensource projects.
 - 💻 Looking for a graduate role in a dynamic prestigious compnay (Python/C++/Java)
-![gif](https://github.com/seekasra/seekasra/blob/main/209661.gif)
+![gif](https://github.com/seekasra/seekasra/blob/main/custome-greeting.gif)
