@@ -6,5 +6,5 @@
 - 🔭 I’m currently doing research on Cognitive Network Orchestration.
 - 🎛 I’m currently learning network programablity.
 - 💻 I’m looking to collaborate on opensource projects.
-- ✨ Looking for a graduate role in a dynamic prestigious compnay (Python/C++/C/Java)
+- ✨ Looking for a graduate role in a dynamic prestigious compnay. (Python/C++/C/Java)
 
