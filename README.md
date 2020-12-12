@@ -1,5 +1,7 @@
 ### Hi 👋 , 
 ![gif](https://github.com/seekasra/seekasra/blob/main/GitHub-Greeting.gif)
+
+[![GitHub Badge](https://img.shields.io/badge/-@seekasra-%23181717?style=flat&logo=github)](https://github.com/seekasra)]
 <!--
 **seekasra/seekasra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
