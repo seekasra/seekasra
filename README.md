@@ -6,7 +6,7 @@
 - ✨ Looking for a Software Engineering role in a dynamic prestigious company. (Python/C++/C/Java)
 
 [![GitHub Badge](https://img.shields.io/badge/-@seekasra-%23181717?style=flat&logo=github)](https://github.com/seekasra)
-[![Twitter Badge](https://img.shields.io/badge/-@seekasra-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/seekasra)](https://twitter.com/suren_at) [![Linkedin Badge](https://img.shields.io/badge/-Kasra%20Kassai-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kasrakassai/)](https://www.linkedin.com/in/kasrakassai/)
+[![Twitter Badge](https://img.shields.io/badge/-@seekasra-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/seekasra)](https://twitter.com/seekasra) [![Linkedin Badge](https://img.shields.io/badge/-Kasra%20Kassai-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kasrakassai/)](https://www.linkedin.com/in/kasrakassai/)
 <!--
 **seekasra/seekasra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
