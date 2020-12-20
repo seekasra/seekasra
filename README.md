@@ -1,7 +1,6 @@
 ![gif](https://github.com/seekasra/seekasra/blob/main/GitHub-Greeting.gif)
 ![Kasra K's github stats](https://github-readme-stats.vercel.app/api?username=seekasra&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide=issues,contribs)
 - 🔭  I’m currently doing research on Cognitive Network Orchestration.
-- 🎛  I’m currently learning network programablity.
 - 💻  I’m looking to collaborate on opensource projects.
 - ✨  Looking for a Software Engineering role in a dynamic prestigious company. (Python/C++/C/Java)
 
