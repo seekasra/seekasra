@@ -1,10 +1,11 @@
 # Kasra Kassai, PhD
-**Computer Scientist · Lecturer in Digital Analytics · London South Bank University**
+**Computer Scientist · Lecturer in Digital Analytics · [London South Bank University](https://www.lsbu.ac.uk)**  
 
 > Developing carbon-aware, energy-efficient systems for edge–cloud and 6G.
 
 ## About
-Kasra Kassai is a London-based computer scientist and Lecturer in Digital Analytics at London South Bank University (LSBU). His research combines machine learning, edge computing and sustainable computing to deliver practical, carbon-aware solutions for next-generation (6G) networks.
+Kasra Kassai is a London-based computer scientist and Lecturer in Digital Analytics at  
+[London South Bank University](https://www.lsbu.ac.uk) (LSBU). His research combines machine learning, edge computing and sustainable computing to deliver practical, carbon-aware solutions for next-generation (6G) networks.
 
 ## Current Positions
 - Lecturer, Digital Analytics, LSBU  
@@ -12,16 +13,16 @@ Kasra Kassai is a London-based computer scientist and Lecturer in Digital Analyt
 - Senior Member, Smart Internet Technologies Hub (SITHub)
 
 ## Education
-- **PhD Computer Science**, LSBU — *Intelligent Energy Optimisation for Sustainable Edge Computing*  
-- **BSc / MSc Software Engineering**, City, University of London  
+- **PhD Computer Science**, [LSBU](https://www.lsbu.ac.uk) — *Intelligent Energy Optimisation for Sustainable Edge Computing*  
+- **BSc / MSc Software Engineering**, [City, University of London](https://www.city.ac.uk)  
 
 ## Research Highlights
 | Year | Title | Type |
 |------|-------|------|
-| 2024 | “GreenBytes: Intelligent Energy Estimation for Edge-Cloud” | Conference paper |
-| 2024 | “Architectural Blueprint for Heterogeneity-Resilient Federated Learning” | Conference paper |
-| 2024 | “Enhancing Sustainability in Edge Computing Environments” | Poster |
-| 2024 | “Federated Learning for Energy Efficiency in 6G” | Journal article |
+| 2024 | “[GreenBytes: Intelligent Energy Estimation for Edge-Cloud](https://digital-library.theiet.org/doi/10.1049/icp.2024.2237)” | Conference paper |
+| 2024 | “[Architectural Blueprint for Heterogeneity-Resilient Federated Learning](https://digital-library.theiet.org/doi/10.1049/icp.2024.2236)” | Conference paper |
+| 2024 | “[Enhancing Sustainability in Edge Computing Environments](https://researchportal.lsbu.ac.uk/en/publications/enhancing-sustainability-in-edge-computing-environments-3)” | Poster |
+| 2024 | “[Federated Learning for Energy Efficiency in 6G](https://doi.org/10.13052/2794-7254.007)” | Journal article |
 
 ## Projects
 - **CAaaS — Carbon Awareness as a Service**  
@@ -31,7 +32,7 @@ Kasra Kassai is a London-based computer scientist and Lecturer in Digital Analyt
 Capstone Project Supervision (L7) · ICT Project Management (L6) · Operating Systems (L5) · Software Development (L4)
 
 ## External Roles
-External Advisor, University of Manchester · External Examiner, University of Essex
+External Advisor, [University of Manchester](https://www.manchester.ac.uk) · External Examiner, [University of Essex](https://www.essex.ac.uk)
 
 ## Sustainable Development Goals
 SDG 7 · SDG 9 · SDG 11 · SDG 12 · SDG 13
@@ -41,7 +42,6 @@ SDG 7 · SDG 9 · SDG 11 · SDG 12 · SDG 13
 
 ---
 
-```html
 <!--  JSON-LD for Google Knowledge Graph  -->
 <script type="application/ld+json">
 {
@@ -56,11 +56,20 @@ SDG 7 · SDG 9 · SDG 11 · SDG 12 · SDG 13
     "url": "https://www.lsbu.ac.uk"
   },
   "alumniOf": [
-    { "@type": "CollegeOrUniversity", "name": "London South Bank University" },
-    { "@type": "CollegeOrUniversity", "name": "City, University of London" }
+    {
+      "@type": "CollegeOrUniversity",
+      "name": "London South Bank University",
+      "url": "https://www.lsbu.ac.uk"
+    },
+    {
+      "@type": "CollegeOrUniversity",
+      "name": "City, University of London",
+      "url": "https://www.city.ac.uk"
+    }
   ],
   "knowsAbout": [
-    "Edge Computing", "Machine Learning", "Sustainable Computing", "Network Programmability", "6G"
+    "Edge Computing", "Machine Learning",
+    "Sustainable Computing", "Network Programmability", "6G"
   ],
   "sameAs": [
     "https://www.drkassai.com",
