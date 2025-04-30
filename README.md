@@ -14,7 +14,7 @@ My work focuses on energy-efficient systems and carbon-aware applications, contr
 ## 🧠 Research & Projects
 
 - **PhD** in Computer Science (London South Bank University): *Intelligent Energy Optimisation for Sustainable Edge Computing*  
-- **BSC & MSc** in Software Engineering (City University of London) 
+- **BSc & MSc** in Software Engineering (City University of London) 
 - **PhD Projects**:  
   - *Carbon Awareness as a Service (CAaaS)*  
   - *Semantic Communication for 6G*  
