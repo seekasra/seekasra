@@ -40,49 +40,4 @@ SDG 7 · SDG 9 · SDG 11 · SDG 12 · SDG 13
 ## Contact & Profiles
 [Website](https://www.drkassai.com) · [ORCID](https://orcid.org/0000-0003-2869-9469) · [X (@kasrakassai)](https://x.com/kasrakassai) · [LinkedIn](https://linkedin.com/in/kasrakassai) · [GitHub](https://github.com/your-username) · kasra.kassai@lsbu.ac.uk
 
----
 
-<!--  JSON-LD for Google Knowledge Graph  -->
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "Person",
-  "name": "Kasra Kassai",
-  "honorificPrefix": "Dr",
-  "jobTitle": "Lecturer in Digital Analytics",
-  "affiliation": {
-    "@type": "CollegeOrUniversity",
-    "name": "London South Bank University",
-    "url": "https://www.lsbu.ac.uk"
-  },
-  "alumniOf": [
-    {
-      "@type": "CollegeOrUniversity",
-      "name": "London South Bank University",
-      "url": "https://www.lsbu.ac.uk"
-    },
-    {
-      "@type": "CollegeOrUniversity",
-      "name": "City, University of London",
-      "url": "https://www.city.ac.uk"
-    }
-  ],
-  "knowsAbout": [
-    "Edge Computing", "Machine Learning",
-    "Sustainable Computing", "Network Programmability", "6G"
-  ],
-  "sameAs": [
-    "https://www.drkassai.com",
-    "https://orcid.org/0000-0003-2869-9469",
-    "https://x.com/kasrakassai",
-    "https://linkedin.com/in/kasrakassai",
-    "https://github.com/your-username"
-  ],
-  "email": "mailto:kasra.kassai@lsbu.ac.uk",
-  "address": {
-    "@type": "PostalAddress",
-    "addressLocality": "London",
-    "addressCountry": "UK"
-  }
-}
-</script>
