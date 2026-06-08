@@ -1,3 +1,16 @@
+![GitHub followers](https://img.shields.io/github/followers/seekasra?style=for-the-badge&logo=github)
+![GitHub stars](https://img.shields.io/github/stars/seekasra?style=for-the-badge&logo=github)
+![Profile views](https://komarev.com/ghpvc/?username=seekasra&style=for-the-badge)
+![ORCID](https://img.shields.io/badge/ORCID-Researcher-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)
+![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Research-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)
+![IEEE](https://img.shields.io/badge/IEEE-Member-00629B?style=for-the-badge&logo=ieee&logoColor=white)
+![ACM](https://img.shields.io/badge/ACM-Member-0085CA?style=for-the-badge&logo=acm&logoColor=white)
+![Python](https://img.shields.io/badge/Python-Data%20%26%20AI-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-Edge%20Computing-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Sustainability](https://img.shields.io/badge/Green%20Computing-Research-2E7D32?style=for-the-badge)
+
+
+
 # Dr Kasra Kassai, (PhD, MSc, BSc, PGCAP, FHEA)
 **Computer Scientist · Lecturer in Digital Analytics · [London South Bank University](https://www.lsbu.ac.uk)**  
 > Developing carbon-aware, energy-efficient systems for edge–cloud and 6G.
