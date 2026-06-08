@@ -1,15 +1,4 @@
-[![License](https://img.shields.io/github/license/seekasra/wizzer?style=flat-square&color=blue)](https://github.com/seekasra/wizzer/blob/master/LICENSE)
-[![Stability](https://img.shields.io/badge/stability-experimental-orange?style=flat-square)](https://github.com/seekasra/wizzer)
-[![Release](https://img.shields.io/github/v/release/seekasra/wizzer?style=flat-square&logo=github)](https://github.com/seekasra/wizzer/releases)
-[![Last commit](https://img.shields.io/github/last-commit/seekasra/wizzer?style=flat-square)](https://github.com/seekasra/wizzer/commits)
-[![Stars](https://img.shields.io/github/stars/seekasra/wizzer?style=flat-square&logo=github)](https://github.com/seekasra/wizzer/stargazers)
-[![Forks](https://img.shields.io/github/forks/seekasra/wizzer?style=flat-square&logo=github)](https://github.com/seekasra/wizzer/network/members)
-[![Open issues](https://img.shields.io/github/issues/seekasra/wizzer?style=flat-square)](https://github.com/seekasra/wizzer/issues)
-[![Top language](https://img.shields.io/github/languages/top/seekasra/wizzer?style=flat-square)](https://github.com/seekasra/wizzer)
-[![Code size](https://img.shields.io/github/languages/code-size/seekasra/wizzer?style=flat-square)](https://github.com/seekasra/wizzer)
-[![Hits](https://hits.sh/github.com/seekasra/wizzer.svg?style=flat-square)](https://hits.sh/github.com/seekasra/wizzer/)
-<!-- Fallback hit counter (less reliable, resets have happened): -->
-<!-- [![HitCount](https://hits.dwyl.com/seekasra/wizzer.svg)](https://hits.dwyl.com/seekasra/wizzer) -->
+
 
 
 # Dr Kasra Kassai, (PhD, MSc, BSc, PGCAP, FHEA)
