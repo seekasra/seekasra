@@ -1,14 +1,24 @@
-![GitHub followers](https://img.shields.io/github/followers/seekasra?style=for-the-badge&logo=github)
-![GitHub stars](https://img.shields.io/github/stars/seekasra?style=for-the-badge&logo=github)
-![Profile views](https://komarev.com/ghpvc/?username=seekasra&style=for-the-badge)
-![ORCID](https://img.shields.io/badge/ORCID-Researcher-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)
-![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Research-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)
-![IEEE](https://img.shields.io/badge/IEEE-Member-00629B?style=for-the-badge&logo=ieee&logoColor=white)
-![ACM](https://img.shields.io/badge/ACM-Member-0085CA?style=for-the-badge&logo=acm&logoColor=white)
-![Python](https://img.shields.io/badge/Python-Data%20%26%20AI-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-Edge%20Computing-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Sustainability](https://img.shields.io/badge/Green%20Computing-Research-2E7D32?style=for-the-badge)
+<!-- GitHub stats -->
+[![GitHub followers](https://img.shields.io/github/followers/seekasra?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117&color=181717)](https://github.com/seekasra?tab=followers)
+[![GitHub stars](https://img.shields.io/github/stars/seekasra?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117&color=181717)](https://github.com/seekasra)
+[![Profile views](https://komarev.com/ghpvc/?username=seekasra&style=for-the-badge&color=0d1117)](https://github.com/seekasra)
 
+<!-- Scholarly identity (replace the IDs) -->
+[![ORCID](https://img.shields.io/badge/ORCID-0000--0000--0000--0000-A6CE39?style=for-the-badge&logo=orcid&logoColor=white&labelColor=0d1117)](https://orcid.org/YOUR-ORCID-ID)
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-Profile-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white&labelColor=0d1117)](https://scholar.google.com/citations?user=YOUR-SCHOLAR-ID)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://www.linkedin.com/in/YOUR-HANDLE)
+
+<!-- Professional memberships -->
+[![IEEE](https://img.shields.io/badge/IEEE-Member-00629B?style=for-the-badge&logo=ieee&logoColor=white&labelColor=0d1117)](https://www.ieee.org/)
+[![ACM](https://img.shields.io/badge/ACM-Member-0085CA?style=for-the-badge&logo=acm&logoColor=white&labelColor=0d1117)](https://www.acm.org/)
+[![BCS](https://img.shields.io/badge/BCS-Member-1BA5C4?style=for-the-badge&labelColor=0d1117)](https://www.bcs.org/)
+[![CMI](https://img.shields.io/badge/CMI-Member-862633?style=for-the-badge&labelColor=0d1117)](https://www.managers.org.uk/)
+
+<!-- Tech & research focus -->
+![Python](https://img.shields.io/badge/Python-Data_&_AI-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=0d1117)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-Edge_Computing-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white&labelColor=0d1117)
+![Docker](https://img.shields.io/badge/Docker-Orchestration-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=0d1117)
+![Green Computing](https://img.shields.io/badge/Green_Computing-Research-2E7D32?style=for-the-badge&labelColor=0d1117)
 
 
 # Dr Kasra Kassai, (PhD, MSc, BSc, PGCAP, FHEA)
