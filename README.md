@@ -1,24 +1,15 @@
-<!-- GitHub stats -->
-[![GitHub followers](https://img.shields.io/github/followers/seekasra?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117&color=181717)](https://github.com/seekasra?tab=followers)
-[![GitHub stars](https://img.shields.io/github/stars/seekasra?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117&color=181717)](https://github.com/seekasra)
-[![Profile views](https://komarev.com/ghpvc/?username=seekasra&style=for-the-badge&color=0d1117)](https://github.com/seekasra)
-
-<!-- Scholarly identity (replace the IDs) -->
-[![ORCID](https://img.shields.io/badge/ORCID-0000--0000--0000--0000-A6CE39?style=for-the-badge&logo=orcid&logoColor=white&labelColor=0d1117)](https://orcid.org/YOUR-ORCID-ID)
-[![Google Scholar](https://img.shields.io/badge/Google_Scholar-Profile-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white&labelColor=0d1117)](https://scholar.google.com/citations?user=YOUR-SCHOLAR-ID)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://www.linkedin.com/in/YOUR-HANDLE)
-
-<!-- Professional memberships -->
-[![IEEE](https://img.shields.io/badge/IEEE-Member-00629B?style=for-the-badge&logo=ieee&logoColor=white&labelColor=0d1117)](https://www.ieee.org/)
-[![ACM](https://img.shields.io/badge/ACM-Member-0085CA?style=for-the-badge&logo=acm&logoColor=white&labelColor=0d1117)](https://www.acm.org/)
-[![BCS](https://img.shields.io/badge/BCS-Member-1BA5C4?style=for-the-badge&labelColor=0d1117)](https://www.bcs.org/)
-[![CMI](https://img.shields.io/badge/CMI-Member-862633?style=for-the-badge&labelColor=0d1117)](https://www.managers.org.uk/)
-
-<!-- Tech & research focus -->
-![Python](https://img.shields.io/badge/Python-Data_&_AI-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=0d1117)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-Edge_Computing-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white&labelColor=0d1117)
-![Docker](https://img.shields.io/badge/Docker-Orchestration-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=0d1117)
-![Green Computing](https://img.shields.io/badge/Green_Computing-Research-2E7D32?style=for-the-badge&labelColor=0d1117)
+[![License](https://img.shields.io/github/license/seekasra/wizzer?style=flat-square&color=blue)](https://github.com/seekasra/wizzer/blob/master/LICENSE)
+[![Stability](https://img.shields.io/badge/stability-experimental-orange?style=flat-square)](https://github.com/seekasra/wizzer)
+[![Release](https://img.shields.io/github/v/release/seekasra/wizzer?style=flat-square&logo=github)](https://github.com/seekasra/wizzer/releases)
+[![Last commit](https://img.shields.io/github/last-commit/seekasra/wizzer?style=flat-square)](https://github.com/seekasra/wizzer/commits)
+[![Stars](https://img.shields.io/github/stars/seekasra/wizzer?style=flat-square&logo=github)](https://github.com/seekasra/wizzer/stargazers)
+[![Forks](https://img.shields.io/github/forks/seekasra/wizzer?style=flat-square&logo=github)](https://github.com/seekasra/wizzer/network/members)
+[![Open issues](https://img.shields.io/github/issues/seekasra/wizzer?style=flat-square)](https://github.com/seekasra/wizzer/issues)
+[![Top language](https://img.shields.io/github/languages/top/seekasra/wizzer?style=flat-square)](https://github.com/seekasra/wizzer)
+[![Code size](https://img.shields.io/github/languages/code-size/seekasra/wizzer?style=flat-square)](https://github.com/seekasra/wizzer)
+[![Hits](https://hits.sh/github.com/seekasra/wizzer.svg?style=flat-square)](https://hits.sh/github.com/seekasra/wizzer/)
+<!-- Fallback hit counter (less reliable, resets have happened): -->
+<!-- [![HitCount](https://hits.dwyl.com/seekasra/wizzer.svg)](https://hits.dwyl.com/seekasra/wizzer) -->
 
 
 # Dr Kasra Kassai, (PhD, MSc, BSc, PGCAP, FHEA)
