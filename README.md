@@ -1,7 +1,7 @@
 
 
 
-# Dr Kasra Kassai, (PhD, MSc, BSc, PGCAP, FHEA)
+# Dr Kasra Kassai,
 **Computer Scientist · Lecturer in Digital Analytics · [London South Bank University](https://www.lsbu.ac.uk)**  
 > Developing carbon-aware, energy-efficient systems for edge–cloud and 6G.
 
