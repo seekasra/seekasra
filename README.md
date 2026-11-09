@@ -1,24 +1,29 @@
 
 
 
-# Dr Kasra Kassai,
-**Computer Scientist · Lecturer in Digital Analytics · [London South Bank University](https://www.lsbu.ac.uk)**  
+# Dr Kasra Kassai
+**Lecturer in Computer Science · School of Computer Science · [London South Bank University](https://www.lsbu.ac.uk)**  
 > Developing carbon-aware, energy-efficient systems for edge–cloud and 6G.
 
 ## About
 
-Kasra Kassai is a London-based computer scientist and Lecturer in Digital Analytics at  [London South Bank University](https://www.lsbu.ac.uk) (LSBU). His research combines machine learning, edge computing and sustainable computing to deliver practical, carbon-aware solutions for next-generation (6G) networks.
+Kasra Kassai is a London-based Lecturer in Computer Science in the School of Computer Science at [London South Bank University](https://www.lsbu.ac.uk) (LSBU). His research combines machine learning, edge computing and sustainable computing to deliver practical, carbon-aware solutions for next-generation (6G) networks.
 
 ## Current Positions
 
-- Lecturer, Digital Analytics, LSBU  
-- Group Lead, Business & Economics Insight Research Group  
+- Lecturer, Computer Science, School of Computer Science, LSBU  
 - Senior Member, Smart Internet Technologies Hub (SITHub)
+
+## Previous Positions
+
+- Lecturer in Digital Analytics, LSBU  
+- Course Leader, BSc (Hons) Business Management, LSBU  
+- Co-lead, Business and Economics Insights Research Group
 
 ## Education
 
-- **PhD Computer Science**, [LSBU](https://www.lsbu.ac.uk) — *Intelligent Energy Optimisation for Sustainable Edge Computing*  
-- **BSc / MSc Software Engineering**, [City, University of London](https://www.city.ac.uk)  
+- **PhD Computer Science** — *Intelligent Energy Optimisation for Sustainable Edge Computing*  
+- **BSc (Hons) IT Engineering (Computer Science) · MSc Software Engineering**, [City, University of London](https://www.city.ac.uk)  
 
 ## Research Highlights
 
@@ -48,4 +53,4 @@ SDG 7 · SDG 9 · SDG 11 · SDG 12 · SDG 13
 
 ## Contact & Profiles
 
-[Website](https://www.drkassai.com) · [ORCID](https://orcid.org/0000-0003-2869-9469) · [X (@kasrakassai)](https://x.com/kasrakassai) · [LinkedIn](https://www.linkedin.com/in/kasrakassai) · [GitHub](https://github.com/your-username) · kasra.kassai@lsbu.ac.uk
+[Website](https://www.drkassai.com) · [ORCID](https://orcid.org/0000-0003-2869-9469) · [X (@kasrakassai)](https://x.com/kasrakassai) · [LinkedIn](https://www.linkedin.com/in/kasrakassai) · [GitHub](https://github.com/seekasra) · kasra.kassai@lsbu.ac.uk
