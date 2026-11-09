@@ -7,7 +7,7 @@
 
 ## About
 
-Kasra Kassai is a London-based Lecturer in Computer Science in the School of Computer Science at [London South Bank University](https://www.lsbu.ac.uk) (LSBU). His research combines machine learning, edge computing and sustainable computing to deliver practical, carbon-aware solutions for next-generation (6G) networks.
+I'm a Lecturer in Computer Science in the School of Computer Science at London South Bank University, in a combined teaching and research role spanning machine learning, edge computing and sustainable computing. My work focuses on practical solutions for energy-efficient systems and carbon-aware applications, including carbon-aware orchestration and ML-based energy estimation. Before this I was a Lecturer in Digital Analytics, Course Leader for BSc (Hons) Business Management and co-lead of the Business and Economics Insights research group. My PhD in Computer Science, supervised by Professor Tasos Dagiuklas, contributed to frameworks for sustainable computing in 6G. I also hold a BSc (Hons) in IT Engineering (Computer Science) and an MSc in Software Engineering from City, University of London.
 
 ## Current Positions
 
